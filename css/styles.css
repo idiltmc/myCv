@@ -1,0 +1,22 @@
+
+    body{
+        background-color: #d2aba6af;
+    }
+
+    hr{
+        background-color: transparent;
+        border-style: none;
+        border-top: dotted 8px;
+        color: gainsboro;
+        height: 1px;
+        width: 5%;
+
+    }
+
+    h1{
+        color: rgb(77, 13, 73);
+    }
+
+    h3{
+        color: rgb(72, 49, 71);
+    }
