@@ -1,6 +1,6 @@
 
     body{
-        background-color: #FFFBEB;
+        background-color: #E9E8E8;
     }
 
     hr{
@@ -13,6 +13,9 @@
 
     }
 
+    .profile{
+        padding-right: 50px;
+    }
     h1{
         color: rgb(77, 13, 73);
     }
