@@ -1,13 +1,13 @@
 
     body{
-        background-color: #d2aba6af;
+        background-color: #FFFBEB;
     }
 
     hr{
         background-color: transparent;
         border-style: none;
         border-top: dotted 8px;
-        color: gainsboro;
+        color: #913175;
         height: 1px;
         width: 5%;
 
